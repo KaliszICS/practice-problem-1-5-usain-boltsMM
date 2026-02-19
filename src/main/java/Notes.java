@@ -39,6 +39,7 @@ class Notes {
 		//variable.charAt(index)
 		
 		c = word.charAt(9); //gets the character at location 4 of the string word.  Saves it to our variable c
+		
 
 		System.out.println(c);
 
